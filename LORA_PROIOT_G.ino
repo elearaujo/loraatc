@@ -16,6 +16,10 @@ DEVICE EUI: Gerar aleatoriamente o valor
 APPLICATION SESSION KEY: Gerar aleatoriamente o valor 
 NETWORK SESSION ENCRYPION KEY: Gerar aleatoriamente o valor 
 
+Upload Speed 115200
+Definir Flash Frequence em 40 Mhz
+ESP32 DevKit
+
 */
 
 
